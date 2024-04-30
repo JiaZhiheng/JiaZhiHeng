@@ -2,11 +2,10 @@
 
 大家好，我叫贾志恒，毕业于塔里木大学信息工程学院，现就职于北京某互联网公司从事前端开发的工作。
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiaZhiheng&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiaZhiheng)](https://github.com/JiaZhiheng)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JiaZhiheng&theme=react)](https://github.com/JiaZhiheng)
+<div style="display:flex;justify-content:center;align-item:center">
+  <img align="center" height="195px" src="https://github-readme-stats-two-rho-26.vercel.app/api?username=JiaZhiheng&locale=cn" />
+  <img align="center" height="195px" src="https://github-readme-stats-two-rho-26.vercel.app/api/top-langs/?username=JiaZhiheng&locale=cn&layout=compact" />
+</div>
 
 <!--
 **JiaZhiheng/JiaZhiHeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

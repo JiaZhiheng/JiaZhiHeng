@@ -12,14 +12,13 @@
 &nbsp;
 <br/>
 
-[网页关键字高亮的更优解：CSS Custom Highlight API](https://zhuanlan.zhihu.com/p/693026673)
+<a href="https://zhuanlan.zhihu.com/p/693026673" target="_blank">网页关键字高亮的更优解：CSS Custom Highlight API</a>
 
-[使用 HTML Drag and Drop API 实现一个可拖拽编辑的课程表](https://zhuanlan.zhihu.com/p/698006468)
+<a href="https://zhuanlan.zhihu.com/p/698006468" target="_blank">使用 HTML Drag and Drop API 实现一个可拖拽编辑的课程表</a>
 
-[借助 Intersection Observer API 实现懒加载与小窗播放优化](https://zhuanlan.zhihu.com/p/703346833)
+<a href="https://zhuanlan.zhihu.com/p/703346833" target="_blank">借助 Intersection Observer API 实现懒加载与小窗播放优化</a>
 
-[探索 Badging API：为您的 Web 应用增加徽章通知功能](https://zhuanlan.zhihu.com/p/707250425)
-
+<a href="https://zhuanlan.zhihu.com/p/707250425" target="_blank">探索 Badging API：为您的 Web 应用增加徽章通知功能</a>
 <!--
 **JiaZhiheng/JiaZhiHeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

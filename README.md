@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-大家好，我叫贾志恒，毕业于塔里木大学信息工程学院，现就职于北京某互联网公司从事前端开发的工作。
+大家好，我叫贾志恒，毕业于塔里木大学信息工程学院，现就职于苏州某互联网公司从事前端开发的工作。
 
 <div style="display:flex;justify-content:center;align-item:center">
   <img align="center" height="195px" src="https://github-readme-stats-two-rho-26.vercel.app/api?username=JiaZhiheng&locale=cn" />
